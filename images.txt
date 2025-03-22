@@ -1,2 +1,3 @@
 nginx:latest
 neosmemo/memos:0.9.0
+mysql:8.0.25
