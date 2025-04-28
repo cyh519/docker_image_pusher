@@ -1,1 +1,3 @@
-zookeeper:3.4
+nginx:latest
+portainer/portainer-ce:latest
+syncthing/syncthing:1.22
